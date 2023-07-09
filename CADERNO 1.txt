@@ -1,0 +1,85 @@
+-- programando páginas frontend
+
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="UTF-8">
+<meta name="description" content="página sobre informações básicas">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta nema="robots" content="noindex, nofollow">
+
+<link rel="stylesheet" type="text/css" href="style.css">
+<script type="text/javascript" src="script.js"></script>
+
+<title>PRIMEIRA PÁGINA</title>
+
+</head>
+<body>
+
+<h3>TITULO PRINCIPAL</h3>
+<h2>TITULO SECUNDARIO</h2>
+<p></p>
+<p></p>
+<bloquote></bloquote>
+<p></p>
+<h2>TITULO SECUNDARIO</h2>
+<p></p>
+<img >
+<p></p>
+<h3>TITULO TERCIARIO</h3>
+<p></p>
+<p></p>
+
+</body>
+</html>
+
+
+=====================================================
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="robots" content="noindex nofollow">
+        <meta name="description" content="página com primeiro conteúdo de html">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <title>TITULA DA PÁGINA</title>
+        
+    </head>
+    <body>
+        <h1>MERCADO DE TECNOLOGIA AQUECIDO</h1>
+        <a href="#">contato</a>
+    </body>
+</html>
+
+===========================================================
+h1{
+    font-size: size 32px;
+    font-family: Verdana;
+    text-align: center;
+}
+
+a{
+    font-size: 32px;
+    font-family: verdana;
+    text-decoration: none;
+}
+
+===============================================================
+
+a{
+    font-size: 32px;
+    font-family: verdana;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10px 30px;
+}
+
+esse código, coloca uma caixa envolta do link que foi criado, padding: altura largura
+
+===============================================================
+
